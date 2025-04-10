@@ -5,9 +5,9 @@ class Database:
     def __init__(self):
         # Initialize Firebase app
         if not firebase_admin._apps:
-            cred = credentials.Certificate(r"D:\Rajkumar Roy\PureSoft company\ai-chatbot-3199f-firebase-adminsdk-fbsvc-660fc54ed3.json")
+            cred = credentials.Certificate(r"[yourSDK].json") # Rplace with your SDK file path
             firebase_admin.initialize_app(cred, {
-                'databaseURL': 'https://ai-chatbot-3199f-default-rtdb.firebaseio.com/'  # Replace with your RTDB URL
+                'databaseURL': 'https://[Project_name].firebaseio.com/'  # Replace with your RTDB URL
             })
 
         self.root = db.reference("/")
