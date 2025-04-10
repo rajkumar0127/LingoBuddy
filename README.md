@@ -52,6 +52,10 @@ Start the backend server:
 uvicorn backend.main:app --reload
 
 Run the Streamlit frontend:
+
+bash
+Copy
+Edit
 streamlit run frontend.py
 
 📷 Screenshots
