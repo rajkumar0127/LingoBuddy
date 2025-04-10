@@ -19,6 +19,7 @@ LingoBuddy is an intelligent language learning chatbot that helps you learn new 
 - French  
 - Russian  
 - Bangla
+- You can add more language according to your requirement.
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +27,7 @@ LingoBuddy is an intelligent language learning chatbot that helps you learn new 
 - **Backend**: FastAPI
 - **Database**: Firebase Realtime Database
 - **Authentication**: Firebase Auth
-- **AI Integration**: OpenAI / Google Generative AI (Gemini)
+- **AI Integration**: OpenAI & LangChai AI Wrapper
 
 ## 🧠 How It Works
 
