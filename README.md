@@ -39,7 +39,7 @@ LingoBuddy is an intelligent language learning chatbot that helps you learn new 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/lingobuddy.git
+   https://github.com/rajkumar0127/LingoBuddy-.git
    cd lingobuddy
 Install dependencies:
 
