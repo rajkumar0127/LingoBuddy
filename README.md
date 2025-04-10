@@ -41,9 +41,16 @@ LingoBuddy is an intelligent language learning chatbot that helps you learn new 
    ```
    https://github.com/rajkumar0127/LingoBuddy.git
    cd lingobuddy
-Install dependencies:
 
-pip install -r requirements.txt
+Create virtual environment:
+open terminal
+```
+python -m venv venv
+venv\Scripts\activate
+```
+
+Install dependencies:
+```pip install -r requirements.txt```
 
 Set up Firebase credentials:
 Add your firebaseConfig in auth.py
