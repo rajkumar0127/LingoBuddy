@@ -71,7 +71,7 @@ streamlit run frontend.py
 
 
 
-📄 License
+📄 License\n
 This project is licensed under the MIT License.
 
 Made with ❤️ for language learners by Rajkumar Roy.
