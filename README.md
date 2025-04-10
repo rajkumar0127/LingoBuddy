@@ -38,7 +38,7 @@ LingoBuddy is an intelligent language learning chatbot that helps you learn new 
 ## 🔧 Setup Instructions
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/yourusername/lingobuddy.git
    cd lingobuddy
 Install dependencies:
@@ -49,17 +49,15 @@ Set up Firebase credentials:
 Add your firebaseConfig in auth.py
 
 Start the backend server:
+```
 uvicorn backend.main:app --reload
-
+```
 Run the Streamlit frontend:
-
-bash
-Copy
-Edit
+```
 streamlit run frontend.py
-
+```
 📷 Screenshots
-(Add your app screenshots here to visually show how it works)
+
 
 📄 License
 This project is licensed under the MIT License.
