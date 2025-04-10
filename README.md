@@ -64,6 +64,11 @@ Run the Streamlit frontend:
 streamlit run frontend.py
 ```
 📷 Screenshots
+![image](https://github.com/user-attachments/assets/b5669682-5b54-4b8d-a31b-4d7704d3f0e9)
+![image](https://github.com/user-attachments/assets/51777e03-0dc9-43b1-bd05-d1680d409145)
+![image](https://github.com/user-attachments/assets/c1f06ac6-f7fe-4401-b2c7-009d866057f7)
+
+
 
 
 📄 License
